@@ -23,7 +23,7 @@ struct ContentView: View {
                     .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
                 Text("Niagara Falls")
                     .font(.largeTitle)
-                    .fontWeight(.semibold)
+                    .fontWeight(.bold)
                     .foregroundColor(Color.white)
             }
         }
